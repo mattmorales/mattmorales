@@ -51,8 +51,9 @@ Here, you'll find a mix of my personal and professional projects, ranging from *
 
 ---
 -->
-## 📬 Get in Touch  
+<!--## 📬 Get in Touch  
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/matthew-morales/)    
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/matthew-morales/)    ---
+-->
 
 Feel free to check out my repositories, fork projects, or reach out for collaboration! Let’s build something amazing together.  
